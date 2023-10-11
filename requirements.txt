@@ -1,0 +1,4 @@
+djitellopy~=2.5.0
+pygame~=2.5.2
+DroneBlocksTelloSimulator~=0.0.7
+opencv-python~=4.8.1.78
